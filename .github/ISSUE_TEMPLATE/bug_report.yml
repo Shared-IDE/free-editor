@@ -48,5 +48,5 @@ body:
       label: I would be willing to submit a PR to fix this issue
       description: Assistance is provided if you need help submitting a pull request
       options:
-        - label: "Yes and I have read the [Contribution Guide](https://github.com/Shared-IDE/free-editor/blob/main/contributing.md) and I agree to follow this project's [Code of Conduct](https://github.com/Shared-IDE/free-editor/blob/main/code-of-conduct.md)"
+        - label: "Yes and I have read the [Contribution Guide](https://github.com/Shared-IDE/free-editor/blob/main/CONTRIBUTING.md) and I agree to follow this project's [Code of Conduct](https://github.com/Shared-IDE/free-editor/blob/main/code-of-conduct.md)"
         - label: 'No'
