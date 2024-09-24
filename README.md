@@ -1,26 +1,26 @@
-# Analog App
+# Free Editor - Shared IDE
 
-This project was generated with [Analog](https://analogjs.org), the fullstack meta-framework for Angular.
+[**Shared IDE**](https://shared-ide.com/) is an advanced, browser-based collaborative coding platform designed to replace traditional tech interview editors. It allows users to run code with terminal-like output and, in the full version, provides real-time collaboration and AI assistance.
 
-## Setup
+## About Free Editor
 
-Run `npm install` to install the application dependencies.
+This repository hosts the **open-source, free version** of the Shared IDE editor. While it offers a powerful and user-friendly code editing experience, the **free editor** is a **standalone** version that comes with limited features compared to the full platform. 
 
-## Development
+### What This Free Editor Offers:
+- A fully-featured **code editor** built with modern web technologies.
+- **Syntax highlighting** and basic editing functionalities.
+- Built using **AnalogJS** and **Angular Material UI** for a smooth, responsive user experience.
 
-Run `npm start` for a dev server. Navigate to `http://localhost:5173/`. The application automatically reloads if you change any of the source files.
+### What’s Not Included:
+- **Collaborative coding**: The free editor does not support real-time collaboration between users.
+- **AI Integration**: The option for AI assistance is not available in this version.
+- **Data Storage**: The free editor currently does not offer persistent storage for projects or code.
+- **Chat functionality**: This editor is for single-person use only and does not include a chat feature.
 
-## Build
+This free version provides a streamlined coding environment that is perfect for individual coding tasks and experiments. 
 
-Run `npm run build` to build the client/server project. The client build artifacts are located in the `dist/analog/public` directory. The server for the API build artifacts are located in the `dist/analog/server` directory.
+## Getting Started
 
-## Test
+To set up and begin using the free editor, please refer to the [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed instructions.
 
-Run `npm run test` to run unit tests with [Vitest](https://vitest.dev).
-
-## Community
-
-- Visit and Star the [GitHub Repo](https://github.com/analogjs/analog)
-- Join the [Discord](https://chat.analogjs.org)
-- Follow us on [Twitter](https://twitter.com/analogjs)
-- Become a [Sponsor](https://github.com/sponsors/brandonroberts)
+We encourage you to explore, contribute, and adapt this editor to your own needs!
