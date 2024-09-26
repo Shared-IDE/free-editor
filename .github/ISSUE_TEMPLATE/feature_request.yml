@@ -28,14 +28,10 @@ body:
       required: true
   - type: textarea
     attributes:
-      label: Current behavior
-      description: Is your feature request related to a problem? Please describe.
+      label: Description
+      description: Describe the solution you'd like.
     validations:
       required: true
-  - type: textarea
-    attributes:
-      label: Suggested solution
-      description: Describe the solution you'd like.
   - type: input
     id: context
     attributes:
